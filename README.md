@@ -12,6 +12,7 @@ D3.js resources for SND/NYC 2018
 * [Working with Transitions](https://bost.ocks.org/mike/transition/) by Mike Bostock
 * [Thinking with Joins](https://bost.ocks.org/mike/join/) by Mike Bostock
 * [Various tutorials](http://vallandingham.me/) by Jim Vallandingham
+* [Working with Spatial Data](https://github.com/enjalot/wwsd) by Ian Johnson
 * [D3.js wiki - Tutorials](https://github.com/d3/d3/wiki/Tutorials) (note: many of these are out of date)
 
 ## Books/Courses
