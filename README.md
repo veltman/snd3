@@ -20,6 +20,7 @@ D3.js resources for SND/NYC 2018
 * [Interactive Data Visualization for the Web](http://alignedleft.com/work/d3-book-2e) by Scott Murray
 * [D3.js in action](https://www.manning.com/books/d3js-in-action-second-edition) by Elijah Meeks
 * [D3.js in motion](https://www.manning.com/livevideo/d3-js-in-motion) by Curran Kelleher
+* [Pocket Guide to Writing SVG](http://svgpocketguide.com/) by Joni Trythall
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ### Editors/tools
