@@ -1,0 +1,771 @@
+{
+  "presidents": [
+    {
+      "number": 1,
+      "name": "George Washington",
+      "party": "No Party",
+      "dates": {
+        "termStart": 17890430,
+        "termEnd": 17970304,
+        "born": 17320222,
+        "died": 17991214
+      },
+      "daysAfterGW": {
+        "termStart": 20887,
+        "termEnd": 23752,
+        "born": 0,
+        "died": 24767
+      }
+    },
+    {
+      "number": 2,
+      "name": "John Adams",
+      "party": "Federalist",
+      "dates": {
+        "termStart": 17970304,
+        "termEnd": 18010304,
+        "born": 17351030,
+        "died": 18260704
+      },
+      "daysAfterGW": {
+        "termStart": 23752,
+        "termEnd": 25212,
+        "born": 1346,
+        "died": 34465
+      }
+    },
+    {
+      "number": 3,
+      "name": "Thomas Jefferson",
+      "party": "Democratic-Republican",
+      "dates": {
+        "termStart": 18010304,
+        "termEnd": 18090304,
+        "born": 17430413,
+        "died": 18260704
+      },
+      "daysAfterGW": {
+        "termStart": 25212,
+        "termEnd": 28134,
+        "born": 4068,
+        "died": 34465
+      }
+    },
+    {
+      "number": 4,
+      "name": "James Madison",
+      "party": "Democratic-Republican",
+      "dates": {
+        "termStart": 18090304,
+        "termEnd": 18170304,
+        "born": 17510316,
+        "died": 18360628
+      },
+      "daysAfterGW": {
+        "termStart": 28134,
+        "termEnd": 31056,
+        "born": 6962,
+        "died": 38112
+      }
+    },
+    {
+      "number": 5,
+      "name": "James Monroe",
+      "party": "Democratic-Republican",
+      "dates": {
+        "termStart": 18170304,
+        "termEnd": 18250304,
+        "born": 17580428,
+        "died": 18310704
+      },
+      "daysAfterGW": {
+        "termStart": 31056,
+        "termEnd": 33978,
+        "born": 9562,
+        "died": 36291
+      }
+    },
+    {
+      "number": 6,
+      "name": "John Quincy Adams",
+      "party": "Democratic-Republican",
+      "dates": {
+        "termStart": 18250304,
+        "termEnd": 18290304,
+        "born": 17670711,
+        "died": 18480223
+      },
+      "daysAfterGW": {
+        "termStart": 33978,
+        "termEnd": 35439,
+        "born": 12923,
+        "died": 42369
+      }
+    },
+    {
+      "number": 7,
+      "name": "Andrew Jackson",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 18290304,
+        "termEnd": 18370304,
+        "born": 17670315,
+        "died": 18450608
+      },
+      "daysAfterGW": {
+        "termStart": 35439,
+        "termEnd": 38361,
+        "born": 12805,
+        "died": 41379
+      }
+    },
+    {
+      "number": 8,
+      "name": "Martin Van Buren",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 18370304,
+        "termEnd": 18410304,
+        "born": 17821205,
+        "died": 18620724
+      },
+      "daysAfterGW": {
+        "termStart": 38361,
+        "termEnd": 39822,
+        "born": 18549,
+        "died": 47634
+      }
+    },
+    {
+      "number": 9,
+      "name": "William Henry Harrison",
+      "party": "Whig",
+      "dates": {
+        "termStart": 18410304,
+        "termEnd": 18410404,
+        "born": 17730209,
+        "died": 18410404
+      },
+      "daysAfterGW": {
+        "termStart": 39822,
+        "termEnd": 39853,
+        "born": 14963,
+        "died": 39853
+      }
+    },
+    {
+      "number": 10,
+      "name": "John Tyler",
+      "party": "Whig",
+      "dates": {
+        "termStart": 18410404,
+        "termEnd": 18450304,
+        "born": 17900329,
+        "died": 18620118
+      },
+      "daysAfterGW": {
+        "termStart": 39853,
+        "termEnd": 41283,
+        "born": 21220,
+        "died": 47447
+      }
+    },
+    {
+      "number": 11,
+      "name": "James K. Polk",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 18450304,
+        "termEnd": 18490304,
+        "born": 17951102,
+        "died": 18490615
+      },
+      "daysAfterGW": {
+        "termStart": 41283,
+        "termEnd": 42744,
+        "born": 23264,
+        "died": 42847
+      }
+    },
+    {
+      "number": 12,
+      "name": "Zachary Taylor",
+      "party": "Whig",
+      "dates": {
+        "termStart": 18490304,
+        "termEnd": 18500709,
+        "born": 17841124,
+        "died": 18500709
+      },
+      "daysAfterGW": {
+        "termStart": 42744,
+        "termEnd": 43236,
+        "born": 19269,
+        "died": 43236
+      }
+    },
+    {
+      "number": 13,
+      "name": "Millard Fillmore",
+      "party": "Whig",
+      "dates": {
+        "termStart": 18500709,
+        "termEnd": 18530304,
+        "born": 18000107,
+        "died": 18740308
+      },
+      "daysAfterGW": {
+        "termStart": 43236,
+        "termEnd": 44205,
+        "born": 24791,
+        "died": 51879
+      }
+    },
+    {
+      "number": 14,
+      "name": "Franklin Pierce",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 18530304,
+        "termEnd": 18570304,
+        "born": 18041123,
+        "died": 18691008
+      },
+      "daysAfterGW": {
+        "termStart": 44205,
+        "termEnd": 45666,
+        "born": 26572,
+        "died": 50267
+      }
+    },
+    {
+      "number": 15,
+      "name": "James Buchanan",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 18570304,
+        "termEnd": 18610304,
+        "born": 17910423,
+        "died": 18680601
+      },
+      "daysAfterGW": {
+        "termStart": 45666,
+        "termEnd": 47127,
+        "born": 21610,
+        "died": 49773
+      }
+    },
+    {
+      "number": 16,
+      "name": "Abraham Lincoln",
+      "party": "Republican",
+      "dates": {
+        "termStart": 18610304,
+        "termEnd": 18650415,
+        "born": 18090212,
+        "died": 18650415
+      },
+      "daysAfterGW": {
+        "termStart": 47127,
+        "termEnd": 48630,
+        "born": 28114,
+        "died": 48630
+      }
+    },
+    {
+      "number": 17,
+      "name": "Andrew Johnson",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 18650415,
+        "termEnd": 18690304,
+        "born": 18081229,
+        "died": 18750731
+      },
+      "daysAfterGW": {
+        "termStart": 48630,
+        "termEnd": 50049,
+        "born": 28069,
+        "died": 52389
+      }
+    },
+    {
+      "number": 18,
+      "name": "Ulysses S. Grant",
+      "party": "Republican",
+      "dates": {
+        "termStart": 18690304,
+        "termEnd": 18770304,
+        "born": 18220427,
+        "died": 18850723
+      },
+      "daysAfterGW": {
+        "termStart": 50049,
+        "termEnd": 52971,
+        "born": 32936,
+        "died": 56034
+      }
+    },
+    {
+      "number": 19,
+      "name": "Rutherford B. Hayes",
+      "party": "Republican",
+      "dates": {
+        "termStart": 18770304,
+        "termEnd": 18810304,
+        "born": 18221004,
+        "died": 18930117
+      },
+      "daysAfterGW": {
+        "termStart": 52971,
+        "termEnd": 54432,
+        "born": 33096,
+        "died": 58769
+      }
+    },
+    {
+      "number": 20,
+      "name": "James A. Garfield",
+      "party": "Republican",
+      "dates": {
+        "termStart": 18810304,
+        "termEnd": 18810919,
+        "born": 18311119,
+        "died": 18810919
+      },
+      "daysAfterGW": {
+        "termStart": 54432,
+        "termEnd": 54631,
+        "born": 36429,
+        "died": 54631
+      }
+    },
+    {
+      "number": 21,
+      "name": "Chester A. Arthur",
+      "party": "Republican",
+      "dates": {
+        "termStart": 18810919,
+        "termEnd": 18850304,
+        "born": 18291005,
+        "died": 18861118
+      },
+      "daysAfterGW": {
+        "termStart": 54631,
+        "termEnd": 55893,
+        "born": 35654,
+        "died": 56517
+      }
+    },
+    {
+      "number": 22,
+      "name": "Grover Cleveland",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 18850304,
+        "termEnd": 18890304,
+        "born": 18370318,
+        "died": 19080624
+      },
+      "daysAfterGW": {
+        "termStart": 55893,
+        "termEnd": 57354,
+        "born": 38375,
+        "died": 64405
+      }
+    },
+    {
+      "number": 23,
+      "name": "Benjamin Harrison",
+      "party": "Republican",
+      "dates": {
+        "termStart": 18890304,
+        "termEnd": 18930304,
+        "born": 18330820,
+        "died": 19010313
+      },
+      "daysAfterGW": {
+        "termStart": 57354,
+        "termEnd": 58815,
+        "born": 37069,
+        "died": 61745
+      }
+    },
+    {
+      "number": 24,
+      "name": "Grover Cleveland",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 18930304,
+        "termEnd": 18970304,
+        "born": 18370318,
+        "died": 19080624
+      },
+      "daysAfterGW": {
+        "termStart": 58815,
+        "termEnd": 60276,
+        "born": 38375,
+        "died": 64405
+      }
+    },
+    {
+      "number": 25,
+      "name": "William McKinley",
+      "party": "Republican",
+      "dates": {
+        "termStart": 18970304,
+        "termEnd": 19010914,
+        "born": 18430129,
+        "died": 19010914
+      },
+      "daysAfterGW": {
+        "termStart": 60276,
+        "termEnd": 61930,
+        "born": 40518,
+        "died": 61930
+      }
+    },
+    {
+      "number": 26,
+      "name": "Theodore Roosevelt",
+      "party": "Republican",
+      "dates": {
+        "termStart": 19010914,
+        "termEnd": 19090304,
+        "born": 18581027,
+        "died": 19190106
+      },
+      "daysAfterGW": {
+        "termStart": 61930,
+        "termEnd": 64658,
+        "born": 46268,
+        "died": 68253
+      }
+    },
+    {
+      "number": 27,
+      "name": "William Howard Taft",
+      "party": "Republican",
+      "dates": {
+        "termStart": 19090304,
+        "termEnd": 19130304,
+        "born": 18570915,
+        "died": 19300308
+      },
+      "daysAfterGW": {
+        "termStart": 64658,
+        "termEnd": 66119,
+        "born": 45861,
+        "died": 72332
+      }
+    },
+    {
+      "number": 28,
+      "name": "Woodrow Wilson",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 19130304,
+        "termEnd": 19210304,
+        "born": 18561228,
+        "died": 19240203
+      },
+      "daysAfterGW": {
+        "termStart": 66119,
+        "termEnd": 69041,
+        "born": 45600,
+        "died": 70107
+      }
+    },
+    {
+      "number": 29,
+      "name": "Warren G. Harding",
+      "party": "Republican",
+      "dates": {
+        "termStart": 19210304,
+        "termEnd": 19230802,
+        "born": 18651102,
+        "died": 19230802
+      },
+      "daysAfterGW": {
+        "termStart": 69041,
+        "termEnd": 69922,
+        "born": 48831,
+        "died": 69922
+      }
+    },
+    {
+      "number": 30,
+      "name": "Calvin Coolidge",
+      "party": "Republican",
+      "dates": {
+        "termStart": 19230802,
+        "termEnd": 19290304,
+        "born": 18720704,
+        "died": 19330105
+      },
+      "daysAfterGW": {
+        "termStart": 69922,
+        "termEnd": 71963,
+        "born": 51267,
+        "died": 73366
+      }
+    },
+    {
+      "number": 31,
+      "name": "Herbert Hoover",
+      "party": "Republican",
+      "dates": {
+        "termStart": 19290304,
+        "termEnd": 19330304,
+        "born": 18740810,
+        "died": 19641020
+      },
+      "daysAfterGW": {
+        "termStart": 71963,
+        "termEnd": 73424,
+        "born": 52034,
+        "died": 84977
+      }
+    },
+    {
+      "number": 32,
+      "name": "Franklin D. Roosevelt",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 19330304,
+        "termEnd": 19450412,
+        "born": 18820130,
+        "died": 19450412
+      },
+      "daysAfterGW": {
+        "termStart": 73424,
+        "termEnd": 77846,
+        "born": 54764,
+        "died": 77846
+      }
+    },
+    {
+      "number": 33,
+      "name": "Harry S. Truman",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 19450412,
+        "termEnd": 19530120,
+        "born": 18840508,
+        "died": 19721226
+      },
+      "daysAfterGW": {
+        "termStart": 77846,
+        "termEnd": 80686,
+        "born": 55593,
+        "died": 87966
+      }
+    },
+    {
+      "number": 34,
+      "name": "Dwight D. Eisenhower",
+      "party": "Republican",
+      "dates": {
+        "termStart": 19530120,
+        "termEnd": 19610120,
+        "born": 18901014,
+        "died": 19690328
+      },
+      "daysAfterGW": {
+        "termStart": 80686,
+        "termEnd": 83608,
+        "born": 57943,
+        "died": 86597
+      }
+    },
+    {
+      "number": 35,
+      "name": "John F. Kennedy",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 19610120,
+        "termEnd": 19631122,
+        "born": 19170529,
+        "died": 19631122
+      },
+      "daysAfterGW": {
+        "termStart": 83608,
+        "termEnd": 84644,
+        "born": 67666,
+        "died": 84644
+      }
+    },
+    {
+      "number": 36,
+      "name": "Lyndon B. Johnson",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 19631122,
+        "termEnd": 19690120,
+        "born": 19080827,
+        "died": 19730122
+      },
+      "daysAfterGW": {
+        "termStart": 84644,
+        "termEnd": 86530,
+        "born": 64469,
+        "died": 87993
+      }
+    },
+    {
+      "number": 37,
+      "name": "Richard Nixon",
+      "party": "Republican",
+      "dates": {
+        "termStart": 19690120,
+        "termEnd": 19740809,
+        "born": 19130109,
+        "died": 19940422
+      },
+      "daysAfterGW": {
+        "termStart": 86530,
+        "termEnd": 88557,
+        "born": 66065,
+        "died": 95753
+      }
+    },
+    {
+      "number": 38,
+      "name": "Gerald Ford",
+      "party": "Republican",
+      "dates": {
+        "termStart": 19740809,
+        "termEnd": 19770120,
+        "born": 19130714,
+        "died": 20061226
+      },
+      "daysAfterGW": {
+        "termStart": 88557,
+        "termEnd": 89452,
+        "born": 66251,
+        "died": 100384
+      }
+    },
+    {
+      "number": 39,
+      "name": "Jimmy Carter",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 19770120,
+        "termEnd": 19810120,
+        "born": 19241001,
+        "died": null
+      },
+      "daysAfterGW": {
+        "termStart": 89452,
+        "termEnd": 90913,
+        "born": 70348,
+        "died": null
+      }
+    },
+    {
+      "number": 40,
+      "name": "Ronald Reagan",
+      "party": "Republican",
+      "dates": {
+        "termStart": 19810120,
+        "termEnd": 19890120,
+        "born": 19110206,
+        "died": 20040605
+      },
+      "daysAfterGW": {
+        "termStart": 90913,
+        "termEnd": 93835,
+        "born": 65362,
+        "died": 99450
+      }
+    },
+    {
+      "number": 41,
+      "name": "George H. W. Bush",
+      "party": "Republican",
+      "dates": {
+        "termStart": 19890120,
+        "termEnd": 19930120,
+        "born": 19240612,
+        "died": null
+      },
+      "daysAfterGW": {
+        "termStart": 93835,
+        "termEnd": 95296,
+        "born": 70237,
+        "died": null
+      }
+    },
+    {
+      "number": 42,
+      "name": "Bill Clinton",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 19930120,
+        "termEnd": 20010120,
+        "born": 19460819,
+        "died": null
+      },
+      "daysAfterGW": {
+        "termStart": 95296,
+        "termEnd": 98218,
+        "born": 78340,
+        "died": null
+      }
+    },
+    {
+      "number": 43,
+      "name": "George W. Bush",
+      "party": "Republican",
+      "dates": {
+        "termStart": 20010120,
+        "termEnd": 20090120,
+        "born": 19460706,
+        "died": null
+      },
+      "daysAfterGW": {
+        "termStart": 98218,
+        "termEnd": 101140,
+        "born": 78296,
+        "died": null
+      }
+    },
+    {
+      "number": 44,
+      "name": "Barack Obama",
+      "party": "Democratic",
+      "dates": {
+        "termStart": 20090120,
+        "termEnd": 20170120,
+        "born": 19610804,
+        "died": null
+      },
+      "daysAfterGW": {
+        "termStart": 101140,
+        "termEnd": 104062,
+        "born": 83804,
+        "died": null
+      }
+    },
+    {
+      "number": 45,
+      "name": "Donald J. Trump",
+      "party": "Republican",
+      "dates": {
+        "termStart": 20170120,
+        "termEnd": null,
+        "born": 19460614,
+        "died": null
+      },
+      "daysAfterGW": {
+        "termStart": 104062,
+        "termEnd": null,
+        "born": 78274,
+        "died": null
+      }
+    }
+  ],
+  "today": 20180322,
+  "todayDaysAfterGW": 104488
+}

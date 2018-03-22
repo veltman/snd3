@@ -1,0 +1,6030 @@
+{
+  "Breezy_Point-Belle_Harbor-Rockaway_Park-Broad_Channel": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1123
+        },
+        {
+          "name": "Kasich",
+          "votes": 281
+        },
+        {
+          "name": "Cruz",
+          "votes": 136
+        }
+      ],
+      "totalVotes": 1540
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 1183
+        },
+        {
+          "name": "Clinton",
+          "votes": 924
+        }
+      ],
+      "totalVotes": 2107
+    }
+  },
+  "Hammels-Arverne-Edgemere": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 165
+        },
+        {
+          "name": "Kasich",
+          "votes": 38
+        },
+        {
+          "name": "Cruz",
+          "votes": 32
+        }
+      ],
+      "totalVotes": 235
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2421
+        },
+        {
+          "name": "Sanders",
+          "votes": 1197
+        }
+      ],
+      "totalVotes": 3618
+    }
+  },
+  "Far_Rockaway-Bayswater": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Cruz",
+          "votes": 228
+        },
+        {
+          "name": "Trump",
+          "votes": 161
+        },
+        {
+          "name": "Kasich",
+          "votes": 38
+        }
+      ],
+      "totalVotes": 427
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3053
+        },
+        {
+          "name": "Sanders",
+          "votes": 1232
+        }
+      ],
+      "totalVotes": 4285
+    }
+  },
+  "Woodhaven": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 384
+        },
+        {
+          "name": "Cruz",
+          "votes": 113
+        },
+        {
+          "name": "Kasich",
+          "votes": 93
+        }
+      ],
+      "totalVotes": 590
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2361
+        },
+        {
+          "name": "Sanders",
+          "votes": 1712
+        }
+      ],
+      "totalVotes": 4073
+    }
+  },
+  "Lindenwood-Howard_Beach": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1188
+        },
+        {
+          "name": "Kasich",
+          "votes": 139
+        },
+        {
+          "name": "Cruz",
+          "votes": 82
+        }
+      ],
+      "totalVotes": 1409
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1018
+        },
+        {
+          "name": "Sanders",
+          "votes": 881
+        }
+      ],
+      "totalVotes": 1899
+    }
+  },
+  "Ozone_Park": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 244
+        },
+        {
+          "name": "Kasich",
+          "votes": 42
+        },
+        {
+          "name": "Cruz",
+          "votes": 39
+        }
+      ],
+      "totalVotes": 325
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 748
+        },
+        {
+          "name": "Sanders",
+          "votes": 548
+        }
+      ],
+      "totalVotes": 1296
+    }
+  },
+  "South_Ozone_Park": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 296
+        },
+        {
+          "name": "Cruz",
+          "votes": 77
+        },
+        {
+          "name": "Kasich",
+          "votes": 71
+        }
+      ],
+      "totalVotes": 444
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3768
+        },
+        {
+          "name": "Sanders",
+          "votes": 1433
+        }
+      ],
+      "totalVotes": 5201
+    }
+  },
+  "Bellerose": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 374
+        },
+        {
+          "name": "Kasich",
+          "votes": 106
+        },
+        {
+          "name": "Cruz",
+          "votes": 85
+        }
+      ],
+      "totalVotes": 565
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1372
+        },
+        {
+          "name": "Sanders",
+          "votes": 1076
+        }
+      ],
+      "totalVotes": 2448
+    }
+  },
+  "Glen_Oaks-Floral_Park-New_Hyde_Park": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 430
+        },
+        {
+          "name": "Kasich",
+          "votes": 130
+        },
+        {
+          "name": "Cruz",
+          "votes": 93
+        }
+      ],
+      "totalVotes": 653
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1728
+        },
+        {
+          "name": "Sanders",
+          "votes": 1030
+        }
+      ],
+      "totalVotes": 2758
+    }
+  },
+  "Oakland_Gardens": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 422
+        },
+        {
+          "name": "Kasich",
+          "votes": 103
+        },
+        {
+          "name": "Cruz",
+          "votes": 83
+        }
+      ],
+      "totalVotes": 608
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1690
+        },
+        {
+          "name": "Sanders",
+          "votes": 1067
+        }
+      ],
+      "totalVotes": 2757
+    }
+  },
+  "Richmond_Hill": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 334
+        },
+        {
+          "name": "Cruz",
+          "votes": 81
+        },
+        {
+          "name": "Kasich",
+          "votes": 68
+        }
+      ],
+      "totalVotes": 483
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2523
+        },
+        {
+          "name": "Sanders",
+          "votes": 1415
+        }
+      ],
+      "totalVotes": 3938
+    }
+  },
+  "Jamaica_Estates-Holliswood": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 241
+        },
+        {
+          "name": "Kasich",
+          "votes": 78
+        },
+        {
+          "name": "Cruz",
+          "votes": 57
+        }
+      ],
+      "totalVotes": 376
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2031
+        },
+        {
+          "name": "Sanders",
+          "votes": 986
+        }
+      ],
+      "totalVotes": 3017
+    }
+  },
+  "Pomonok-Flushing_Heights-Hillcrest": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 230
+        },
+        {
+          "name": "Cruz",
+          "votes": 77
+        },
+        {
+          "name": "Kasich",
+          "votes": 62
+        }
+      ],
+      "totalVotes": 369
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1665
+        },
+        {
+          "name": "Sanders",
+          "votes": 1192
+        }
+      ],
+      "totalVotes": 2857
+    }
+  },
+  "Briarwood-Jamaica_Hills": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 174
+        },
+        {
+          "name": "Kasich",
+          "votes": 63
+        },
+        {
+          "name": "Cruz",
+          "votes": 54
+        }
+      ],
+      "totalVotes": 291
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1826
+        },
+        {
+          "name": "Sanders",
+          "votes": 1304
+        }
+      ],
+      "totalVotes": 3130
+    }
+  },
+  "Kew_Gardens_Hills": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 278
+        },
+        {
+          "name": "Cruz",
+          "votes": 202
+        },
+        {
+          "name": "Kasich",
+          "votes": 85
+        }
+      ],
+      "totalVotes": 565
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1880
+        },
+        {
+          "name": "Sanders",
+          "votes": 1147
+        }
+      ],
+      "totalVotes": 3027
+    }
+  },
+  "Jamaica": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 121
+        },
+        {
+          "name": "Cruz",
+          "votes": 30
+        },
+        {
+          "name": "Kasich",
+          "votes": 20
+        }
+      ],
+      "totalVotes": 171
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2913
+        },
+        {
+          "name": "Sanders",
+          "votes": 1206
+        }
+      ],
+      "totalVotes": 4119
+    }
+  },
+  "Queens_Village": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 216
+        },
+        {
+          "name": "Kasich",
+          "votes": 69
+        },
+        {
+          "name": "Cruz",
+          "votes": 55
+        }
+      ],
+      "totalVotes": 340
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 4311
+        },
+        {
+          "name": "Sanders",
+          "votes": 1662
+        }
+      ],
+      "totalVotes": 5973
+    }
+  },
+  "Fresh_Meadows-Utopia": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 166
+        },
+        {
+          "name": "Kasich",
+          "votes": 61
+        },
+        {
+          "name": "Cruz",
+          "votes": 52
+        }
+      ],
+      "totalVotes": 279
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 990
+        },
+        {
+          "name": "Sanders",
+          "votes": 655
+        }
+      ],
+      "totalVotes": 1645
+    }
+  },
+  "Douglas_Manor-Douglaston-Little_Neck": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 662
+        },
+        {
+          "name": "Kasich",
+          "votes": 159
+        },
+        {
+          "name": "Cruz",
+          "votes": 81
+        }
+      ],
+      "totalVotes": 902
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1392
+        },
+        {
+          "name": "Sanders",
+          "votes": 1062
+        }
+      ],
+      "totalVotes": 2454
+    }
+  },
+  "Bayside-Bayside_Hills": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 813
+        },
+        {
+          "name": "Kasich",
+          "votes": 266
+        },
+        {
+          "name": "Cruz",
+          "votes": 122
+        }
+      ],
+      "totalVotes": 1201
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1878
+        },
+        {
+          "name": "Sanders",
+          "votes": 1630
+        }
+      ],
+      "totalVotes": 3508
+    }
+  },
+  "Auburndale": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 278
+        },
+        {
+          "name": "Kasich",
+          "votes": 82
+        },
+        {
+          "name": "Cruz",
+          "votes": 42
+        }
+      ],
+      "totalVotes": 402
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 600
+        },
+        {
+          "name": "Sanders",
+          "votes": 533
+        }
+      ],
+      "totalVotes": 1133
+    }
+  },
+  "East_Flushing": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 237
+        },
+        {
+          "name": "Kasich",
+          "votes": 72
+        },
+        {
+          "name": "Cruz",
+          "votes": 49
+        }
+      ],
+      "totalVotes": 358
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 922
+        },
+        {
+          "name": "Sanders",
+          "votes": 724
+        }
+      ],
+      "totalVotes": 1646
+    }
+  },
+  "Queensboro_Hill": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 154
+        },
+        {
+          "name": "Kasich",
+          "votes": 43
+        },
+        {
+          "name": "Cruz",
+          "votes": 28
+        }
+      ],
+      "totalVotes": 225
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 559
+        },
+        {
+          "name": "Sanders",
+          "votes": 432
+        }
+      ],
+      "totalVotes": 991
+    }
+  },
+  "Flushing": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 247
+        },
+        {
+          "name": "Cruz",
+          "votes": 82
+        },
+        {
+          "name": "Kasich",
+          "votes": 74
+        }
+      ],
+      "totalVotes": 403
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2439
+        },
+        {
+          "name": "Sanders",
+          "votes": 1290
+        }
+      ],
+      "totalVotes": 3729
+    }
+  },
+  "Whitestone": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 958
+        },
+        {
+          "name": "Kasich",
+          "votes": 163
+        },
+        {
+          "name": "Cruz",
+          "votes": 113
+        }
+      ],
+      "totalVotes": 1234
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1152
+        },
+        {
+          "name": "Sanders",
+          "votes": 1009
+        }
+      ],
+      "totalVotes": 2161
+    }
+  },
+  "Ft._Totten-Bay_Terrace-Clearview": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 526
+        },
+        {
+          "name": "Kasich",
+          "votes": 113
+        },
+        {
+          "name": "Cruz",
+          "votes": 57
+        }
+      ],
+      "totalVotes": 696
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1635
+        },
+        {
+          "name": "Sanders",
+          "votes": 828
+        }
+      ],
+      "totalVotes": 2463
+    }
+  },
+  "Murray_Hill": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 636
+        },
+        {
+          "name": "Kasich",
+          "votes": 143
+        },
+        {
+          "name": "Cruz",
+          "votes": 94
+        }
+      ],
+      "totalVotes": 873
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1629
+        },
+        {
+          "name": "Sanders",
+          "votes": 1196
+        }
+      ],
+      "totalVotes": 2825
+    }
+  },
+  "Kew_Gardens": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 192
+        },
+        {
+          "name": "Cruz",
+          "votes": 70
+        },
+        {
+          "name": "Kasich",
+          "votes": 67
+        }
+      ],
+      "totalVotes": 329
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1313
+        },
+        {
+          "name": "Sanders",
+          "votes": 1091
+        }
+      ],
+      "totalVotes": 2404
+    }
+  },
+  "Forest_Hills": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1136
+        },
+        {
+          "name": "Kasich",
+          "votes": 396
+        },
+        {
+          "name": "Cruz",
+          "votes": 270
+        }
+      ],
+      "totalVotes": 1802
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5582
+        },
+        {
+          "name": "Sanders",
+          "votes": 3574
+        }
+      ],
+      "totalVotes": 9156
+    }
+  },
+  "College_Point": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 263
+        },
+        {
+          "name": "Kasich",
+          "votes": 48
+        },
+        {
+          "name": "Cruz",
+          "votes": 40
+        }
+      ],
+      "totalVotes": 351
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 597
+        },
+        {
+          "name": "Sanders",
+          "votes": 521
+        }
+      ],
+      "totalVotes": 1118
+    }
+  },
+  "Ridgewood": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 448
+        },
+        {
+          "name": "Cruz",
+          "votes": 101
+        },
+        {
+          "name": "Kasich",
+          "votes": 93
+        }
+      ],
+      "totalVotes": 642
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 2627
+        },
+        {
+          "name": "Clinton",
+          "votes": 2067
+        }
+      ],
+      "totalVotes": 4694
+    }
+  },
+  "Glendale": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 685
+        },
+        {
+          "name": "Kasich",
+          "votes": 184
+        },
+        {
+          "name": "Cruz",
+          "votes": 86
+        }
+      ],
+      "totalVotes": 955
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 1085
+        },
+        {
+          "name": "Clinton",
+          "votes": 999
+        }
+      ],
+      "totalVotes": 2084
+    }
+  },
+  "Rego_Park": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 325
+        },
+        {
+          "name": "Kasich",
+          "votes": 91
+        },
+        {
+          "name": "Cruz",
+          "votes": 78
+        }
+      ],
+      "totalVotes": 494
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1189
+        },
+        {
+          "name": "Sanders",
+          "votes": 868
+        }
+      ],
+      "totalVotes": 2057
+    }
+  },
+  "Middle_Village": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1288
+        },
+        {
+          "name": "Kasich",
+          "votes": 236
+        },
+        {
+          "name": "Cruz",
+          "votes": 134
+        }
+      ],
+      "totalVotes": 1658
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 1362
+        },
+        {
+          "name": "Clinton",
+          "votes": 1188
+        }
+      ],
+      "totalVotes": 2550
+    }
+  },
+  "Hollis": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 34
+        },
+        {
+          "name": "Cruz",
+          "votes": 13
+        },
+        {
+          "name": "Kasich",
+          "votes": 9
+        }
+      ],
+      "totalVotes": 56
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1504
+        },
+        {
+          "name": "Sanders",
+          "votes": 611
+        }
+      ],
+      "totalVotes": 2115
+    }
+  },
+  "South_Jamaica": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 16
+        },
+        {
+          "name": "Cruz",
+          "votes": 9
+        },
+        {
+          "name": "Kasich",
+          "votes": 9
+        }
+      ],
+      "totalVotes": 34
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3076
+        },
+        {
+          "name": "Sanders",
+          "votes": 1073
+        }
+      ],
+      "totalVotes": 4149
+    }
+  },
+  "St._Albans": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 25
+        },
+        {
+          "name": "Kasich",
+          "votes": 14
+        },
+        {
+          "name": "Cruz",
+          "votes": 10
+        }
+      ],
+      "totalVotes": 49
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 6087
+        },
+        {
+          "name": "Sanders",
+          "votes": 2111
+        }
+      ],
+      "totalVotes": 8198
+    }
+  },
+  "Springfield_Gardens_North": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 12
+        },
+        {
+          "name": "Kasich",
+          "votes": 10
+        },
+        {
+          "name": "Cruz",
+          "votes": 6
+        }
+      ],
+      "totalVotes": 28
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3848
+        },
+        {
+          "name": "Sanders",
+          "votes": 1252
+        }
+      ],
+      "totalVotes": 5100
+    }
+  },
+  "Rosedale": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 58
+        },
+        {
+          "name": "Cruz",
+          "votes": 12
+        },
+        {
+          "name": "Kasich",
+          "votes": 11
+        }
+      ],
+      "totalVotes": 81
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3300
+        },
+        {
+          "name": "Sanders",
+          "votes": 1141
+        }
+      ],
+      "totalVotes": 4441
+    }
+  },
+  "Laurelton": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 14
+        },
+        {
+          "name": "Kasich",
+          "votes": 5
+        },
+        {
+          "name": "Cruz",
+          "votes": 3
+        }
+      ],
+      "totalVotes": 22
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3043
+        },
+        {
+          "name": "Sanders",
+          "votes": 900
+        }
+      ],
+      "totalVotes": 3943
+    }
+  },
+  "Maspeth": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 413
+        },
+        {
+          "name": "Kasich",
+          "votes": 76
+        },
+        {
+          "name": "Cruz",
+          "votes": 53
+        }
+      ],
+      "totalVotes": 542
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 809
+        },
+        {
+          "name": "Clinton",
+          "votes": 745
+        }
+      ],
+      "totalVotes": 1554
+    }
+  },
+  "Hunters_Point-Sunnyside-West_Maspeth": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 481
+        },
+        {
+          "name": "Kasich",
+          "votes": 235
+        },
+        {
+          "name": "Cruz",
+          "votes": 139
+        }
+      ],
+      "totalVotes": 855
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 4712
+        },
+        {
+          "name": "Sanders",
+          "votes": 4267
+        }
+      ],
+      "totalVotes": 8979
+    }
+  },
+  "Elmhurst-Maspeth": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 125
+        },
+        {
+          "name": "Cruz",
+          "votes": 33
+        },
+        {
+          "name": "Kasich",
+          "votes": 30
+        }
+      ],
+      "totalVotes": 188
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 742
+        },
+        {
+          "name": "Sanders",
+          "votes": 609
+        }
+      ],
+      "totalVotes": 1351
+    }
+  },
+  "Elmhurst": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 318
+        },
+        {
+          "name": "Cruz",
+          "votes": 87
+        },
+        {
+          "name": "Kasich",
+          "votes": 83
+        }
+      ],
+      "totalVotes": 488
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2632
+        },
+        {
+          "name": "Sanders",
+          "votes": 1804
+        }
+      ],
+      "totalVotes": 4436
+    }
+  },
+  "Queensbridge-Ravenswood-Long_Island_City": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 54
+        },
+        {
+          "name": "Kasich",
+          "votes": 31
+        },
+        {
+          "name": "Cruz",
+          "votes": 16
+        }
+      ],
+      "totalVotes": 101
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1650
+        },
+        {
+          "name": "Sanders",
+          "votes": 978
+        }
+      ],
+      "totalVotes": 2628
+    }
+  },
+  "Woodside": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 321
+        },
+        {
+          "name": "Kasich",
+          "votes": 119
+        },
+        {
+          "name": "Cruz",
+          "votes": 91
+        }
+      ],
+      "totalVotes": 531
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1795
+        },
+        {
+          "name": "Sanders",
+          "votes": 1653
+        }
+      ],
+      "totalVotes": 3448
+    }
+  },
+  "Astoria": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 539
+        },
+        {
+          "name": "Kasich",
+          "votes": 194
+        },
+        {
+          "name": "Cruz",
+          "votes": 115
+        }
+      ],
+      "totalVotes": 848
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 4598
+        },
+        {
+          "name": "Clinton",
+          "votes": 4073
+        }
+      ],
+      "totalVotes": 8671
+    }
+  },
+  "Baisley_Park": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 17
+        },
+        {
+          "name": "Kasich",
+          "votes": 5
+        },
+        {
+          "name": "Cruz",
+          "votes": 4
+        }
+      ],
+      "totalVotes": 26
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3126
+        },
+        {
+          "name": "Sanders",
+          "votes": 1030
+        }
+      ],
+      "totalVotes": 4156
+    }
+  },
+  "Springfield_Gardens_South-Brookville": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 5
+        },
+        {
+          "name": "Trump",
+          "votes": 5
+        },
+        {
+          "name": "Cruz",
+          "votes": 4
+        }
+      ],
+      "totalVotes": 14,
+      "tied": [
+        0,
+        1
+      ]
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1348
+        },
+        {
+          "name": "Sanders",
+          "votes": 421
+        }
+      ],
+      "totalVotes": 1769
+    }
+  },
+  "Cambria_Heights": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 9
+        },
+        {
+          "name": "Kasich",
+          "votes": 5
+        },
+        {
+          "name": "Cruz",
+          "votes": 4
+        }
+      ],
+      "totalVotes": 18
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2672
+        },
+        {
+          "name": "Sanders",
+          "votes": 825
+        }
+      ],
+      "totalVotes": 3497
+    }
+  },
+  "North_Corona": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 51
+        },
+        {
+          "name": "Cruz",
+          "votes": 20
+        },
+        {
+          "name": "Kasich",
+          "votes": 7
+        }
+      ],
+      "totalVotes": 78
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1509
+        },
+        {
+          "name": "Sanders",
+          "votes": 708
+        }
+      ],
+      "totalVotes": 2217
+    }
+  },
+  "Jackson_Heights": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 508
+        },
+        {
+          "name": "Kasich",
+          "votes": 180
+        },
+        {
+          "name": "Cruz",
+          "votes": 171
+        }
+      ],
+      "totalVotes": 859
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5962
+        },
+        {
+          "name": "Sanders",
+          "votes": 4456
+        }
+      ],
+      "totalVotes": 10418
+    }
+  },
+  "East_Elmhurst": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 31
+        },
+        {
+          "name": "Cruz",
+          "votes": 9
+        },
+        {
+          "name": "Kasich",
+          "votes": 9
+        }
+      ],
+      "totalVotes": 49
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1606
+        },
+        {
+          "name": "Sanders",
+          "votes": 710
+        }
+      ],
+      "totalVotes": 2316
+    }
+  },
+  "Corona": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 135
+        },
+        {
+          "name": "Cruz",
+          "votes": 39
+        },
+        {
+          "name": "Kasich",
+          "votes": 26
+        }
+      ],
+      "totalVotes": 200
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2735
+        },
+        {
+          "name": "Sanders",
+          "votes": 1203
+        }
+      ],
+      "totalVotes": 3938
+    }
+  },
+  "Old_Astoria": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 130
+        },
+        {
+          "name": "Kasich",
+          "votes": 68
+        },
+        {
+          "name": "Cruz",
+          "votes": 35
+        }
+      ],
+      "totalVotes": 233
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1423
+        },
+        {
+          "name": "Sanders",
+          "votes": 1402
+        }
+      ],
+      "totalVotes": 2825
+    }
+  },
+  "Steinway": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 474
+        },
+        {
+          "name": "Kasich",
+          "votes": 172
+        },
+        {
+          "name": "Cruz",
+          "votes": 86
+        }
+      ],
+      "totalVotes": 732
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 2986
+        },
+        {
+          "name": "Clinton",
+          "votes": 2435
+        }
+      ],
+      "totalVotes": 5421
+    }
+  },
+  "Midwood": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 553
+        },
+        {
+          "name": "Cruz",
+          "votes": 444
+        },
+        {
+          "name": "Kasich",
+          "votes": 113
+        }
+      ],
+      "totalVotes": 1110
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2080
+        },
+        {
+          "name": "Sanders",
+          "votes": 1589
+        }
+      ],
+      "totalVotes": 3669
+    }
+  },
+  "Madison": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 582
+        },
+        {
+          "name": "Cruz",
+          "votes": 139
+        },
+        {
+          "name": "Kasich",
+          "votes": 98
+        }
+      ],
+      "totalVotes": 819
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1218
+        },
+        {
+          "name": "Sanders",
+          "votes": 1040
+        }
+      ],
+      "totalVotes": 2258
+    }
+  },
+  "Georgetown-Marine_Park-Bergen_Beach-Mill_Basin": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1253
+        },
+        {
+          "name": "Kasich",
+          "votes": 206
+        },
+        {
+          "name": "Cruz",
+          "votes": 191
+        }
+      ],
+      "totalVotes": 1650
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1887
+        },
+        {
+          "name": "Sanders",
+          "votes": 1730
+        }
+      ],
+      "totalVotes": 3617
+    }
+  },
+  "Flatlands": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 240
+        },
+        {
+          "name": "Cruz",
+          "votes": 112
+        },
+        {
+          "name": "Kasich",
+          "votes": 63
+        }
+      ],
+      "totalVotes": 415
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 6310
+        },
+        {
+          "name": "Sanders",
+          "votes": 2636
+        }
+      ],
+      "totalVotes": 8946
+    }
+  },
+  "Sheepshead_Bay-Gerritsen_Beach-Manhattan_Beach": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1316
+        },
+        {
+          "name": "Cruz",
+          "votes": 199
+        },
+        {
+          "name": "Kasich",
+          "votes": 159
+        }
+      ],
+      "totalVotes": 1674
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2250
+        },
+        {
+          "name": "Sanders",
+          "votes": 2073
+        }
+      ],
+      "totalVotes": 4323
+    }
+  },
+  "East_Flatbush-Farragut": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 35
+        },
+        {
+          "name": "Kasich",
+          "votes": 13
+        },
+        {
+          "name": "Cruz",
+          "votes": 12
+        }
+      ],
+      "totalVotes": 60
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 6241
+        },
+        {
+          "name": "Sanders",
+          "votes": 1837
+        }
+      ],
+      "totalVotes": 8078
+    }
+  },
+  "Windsor_Terrace": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 197
+        },
+        {
+          "name": "Kasich",
+          "votes": 120
+        },
+        {
+          "name": "Cruz",
+          "votes": 54
+        }
+      ],
+      "totalVotes": 371
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2756
+        },
+        {
+          "name": "Sanders",
+          "votes": 2568
+        }
+      ],
+      "totalVotes": 5324
+    }
+  },
+  "Flatbush": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 241
+        },
+        {
+          "name": "Cruz",
+          "votes": 133
+        },
+        {
+          "name": "Kasich",
+          "votes": 87
+        }
+      ],
+      "totalVotes": 461
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 8535
+        },
+        {
+          "name": "Sanders",
+          "votes": 5796
+        }
+      ],
+      "totalVotes": 14331
+    }
+  },
+  "Erasmus": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 25
+        },
+        {
+          "name": "Cruz",
+          "votes": 5
+        },
+        {
+          "name": "Kasich",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 35
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2576
+        },
+        {
+          "name": "Sanders",
+          "votes": 1029
+        }
+      ],
+      "totalVotes": 3605
+    }
+  },
+  "Kensington-Ocean_Parkway": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 195
+        },
+        {
+          "name": "Cruz",
+          "votes": 151
+        },
+        {
+          "name": "Kasich",
+          "votes": 61
+        }
+      ],
+      "totalVotes": 407
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 1999
+        },
+        {
+          "name": "Clinton",
+          "votes": 1882
+        }
+      ],
+      "totalVotes": 3881
+    }
+  },
+  "Prospect_Lefferts_Gardens-Wingate": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 51
+        },
+        {
+          "name": "Kasich",
+          "votes": 39
+        },
+        {
+          "name": "Cruz",
+          "votes": 36
+        }
+      ],
+      "totalVotes": 126
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 7028
+        },
+        {
+          "name": "Sanders",
+          "votes": 3543
+        }
+      ],
+      "totalVotes": 10571
+    }
+  },
+  "Crown_Heights_North": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 75
+        },
+        {
+          "name": "Cruz",
+          "votes": 64
+        },
+        {
+          "name": "Kasich",
+          "votes": 52
+        }
+      ],
+      "totalVotes": 191
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 10311
+        },
+        {
+          "name": "Sanders",
+          "votes": 6715
+        }
+      ],
+      "totalVotes": 17026
+    }
+  },
+  "Crown_Heights_South": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Cruz",
+          "votes": 91
+        },
+        {
+          "name": "Trump",
+          "votes": 75
+        },
+        {
+          "name": "Kasich",
+          "votes": 26
+        }
+      ],
+      "totalVotes": 192
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3432
+        },
+        {
+          "name": "Sanders",
+          "votes": 2004
+        }
+      ],
+      "totalVotes": 5436
+    }
+  },
+  "Borough_Park": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Cruz",
+          "votes": 929
+        },
+        {
+          "name": "Trump",
+          "votes": 619
+        },
+        {
+          "name": "Kasich",
+          "votes": 94
+        }
+      ],
+      "totalVotes": 1642
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2408
+        },
+        {
+          "name": "Sanders",
+          "votes": 1522
+        }
+      ],
+      "totalVotes": 3930
+    }
+  },
+  "Park_Slope-Gowanus": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 273
+        },
+        {
+          "name": "Trump",
+          "votes": 241
+        },
+        {
+          "name": "Cruz",
+          "votes": 75
+        }
+      ],
+      "totalVotes": 589
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 10158
+        },
+        {
+          "name": "Sanders",
+          "votes": 7502
+        }
+      ],
+      "totalVotes": 17660
+    }
+  },
+  "Ocean_Parkway_South": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 205
+        },
+        {
+          "name": "Cruz",
+          "votes": 161
+        },
+        {
+          "name": "Kasich",
+          "votes": 42
+        }
+      ],
+      "totalVotes": 408
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 617
+        },
+        {
+          "name": "Sanders",
+          "votes": 429
+        }
+      ],
+      "totalVotes": 1046
+    }
+  },
+  "Homecrest": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 612
+        },
+        {
+          "name": "Cruz",
+          "votes": 130
+        },
+        {
+          "name": "Kasich",
+          "votes": 80
+        }
+      ],
+      "totalVotes": 822
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 960
+        },
+        {
+          "name": "Sanders",
+          "votes": 776
+        }
+      ],
+      "totalVotes": 1736
+    }
+  },
+  "Bensonhurst_East": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 654
+        },
+        {
+          "name": "Cruz",
+          "votes": 105
+        },
+        {
+          "name": "Kasich",
+          "votes": 81
+        }
+      ],
+      "totalVotes": 840
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 1252
+        },
+        {
+          "name": "Clinton",
+          "votes": 1129
+        }
+      ],
+      "totalVotes": 2381
+    }
+  },
+  "Gravesend": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 425
+        },
+        {
+          "name": "Cruz",
+          "votes": 51
+        },
+        {
+          "name": "Kasich",
+          "votes": 43
+        }
+      ],
+      "totalVotes": 519
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 937
+        },
+        {
+          "name": "Sanders",
+          "votes": 829
+        }
+      ],
+      "totalVotes": 1766
+    }
+  },
+  "Brighton_Beach": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 629
+        },
+        {
+          "name": "Cruz",
+          "votes": 89
+        },
+        {
+          "name": "Kasich",
+          "votes": 30
+        }
+      ],
+      "totalVotes": 748
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 614
+        },
+        {
+          "name": "Clinton",
+          "votes": 551
+        }
+      ],
+      "totalVotes": 1165
+    }
+  },
+  "Seagate-Coney_Island": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 191
+        },
+        {
+          "name": "Cruz",
+          "votes": 25
+        },
+        {
+          "name": "Kasich",
+          "votes": 21
+        }
+      ],
+      "totalVotes": 237
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1516
+        },
+        {
+          "name": "Sanders",
+          "votes": 855
+        }
+      ],
+      "totalVotes": 2371
+    }
+  },
+  "West_Brighton": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 776
+        },
+        {
+          "name": "Cruz",
+          "votes": 110
+        },
+        {
+          "name": "Kasich",
+          "votes": 51
+        }
+      ],
+      "totalVotes": 937
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 731
+        },
+        {
+          "name": "Sanders",
+          "votes": 605
+        }
+      ],
+      "totalVotes": 1336
+    }
+  },
+  "Bay_Ridge": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1791
+        },
+        {
+          "name": "Kasich",
+          "votes": 533
+        },
+        {
+          "name": "Cruz",
+          "votes": 261
+        }
+      ],
+      "totalVotes": 2585
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 3998
+        },
+        {
+          "name": "Clinton",
+          "votes": 3445
+        }
+      ],
+      "totalVotes": 7443
+    }
+  },
+  "Dyker_Heights": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 845
+        },
+        {
+          "name": "Kasich",
+          "votes": 168
+        },
+        {
+          "name": "Cruz",
+          "votes": 95
+        }
+      ],
+      "totalVotes": 1108
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 1044
+        },
+        {
+          "name": "Clinton",
+          "votes": 836
+        }
+      ],
+      "totalVotes": 1880
+    }
+  },
+  "Bath_Beach": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 464
+        },
+        {
+          "name": "Kasich",
+          "votes": 66
+        },
+        {
+          "name": "Cruz",
+          "votes": 60
+        }
+      ],
+      "totalVotes": 590
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 604
+        },
+        {
+          "name": "Clinton",
+          "votes": 530
+        }
+      ],
+      "totalVotes": 1134
+    }
+  },
+  "Bensonhurst_West": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 866
+        },
+        {
+          "name": "Cruz",
+          "votes": 138
+        },
+        {
+          "name": "Kasich",
+          "votes": 128
+        }
+      ],
+      "totalVotes": 1132
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 1692
+        },
+        {
+          "name": "Clinton",
+          "votes": 1461
+        }
+      ],
+      "totalVotes": 3153
+    }
+  },
+  "Sunset_Park_East": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 162
+        },
+        {
+          "name": "Cruz",
+          "votes": 89
+        },
+        {
+          "name": "Kasich",
+          "votes": 44
+        }
+      ],
+      "totalVotes": 295
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1465
+        },
+        {
+          "name": "Sanders",
+          "votes": 1345
+        }
+      ],
+      "totalVotes": 2810
+    }
+  },
+  "Bedford": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 48
+        },
+        {
+          "name": "Cruz",
+          "votes": 40
+        },
+        {
+          "name": "Kasich",
+          "votes": 27
+        }
+      ],
+      "totalVotes": 115
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5128
+        },
+        {
+          "name": "Sanders",
+          "votes": 4696
+        }
+      ],
+      "totalVotes": 9824
+    }
+  },
+  "North_Side-South_Side": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 104
+        },
+        {
+          "name": "Kasich",
+          "votes": 102
+        },
+        {
+          "name": "Cruz",
+          "votes": 43
+        }
+      ],
+      "totalVotes": 249
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3794
+        },
+        {
+          "name": "Sanders",
+          "votes": 3719
+        }
+      ],
+      "totalVotes": 7513
+    }
+  },
+  "Greenpoint": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 225
+        },
+        {
+          "name": "Kasich",
+          "votes": 74
+        },
+        {
+          "name": "Cruz",
+          "votes": 43
+        }
+      ],
+      "totalVotes": 342
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 3537
+        },
+        {
+          "name": "Clinton",
+          "votes": 2007
+        }
+      ],
+      "totalVotes": 5544
+    }
+  },
+  "Williamsburg": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Cruz",
+          "votes": 49
+        },
+        {
+          "name": "Trump",
+          "votes": 39
+        },
+        {
+          "name": "Kasich",
+          "votes": 7
+        }
+      ],
+      "totalVotes": 95
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 670
+        },
+        {
+          "name": "Sanders",
+          "votes": 410
+        }
+      ],
+      "totalVotes": 1080
+    }
+  },
+  "Fort_Greene": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 35
+        },
+        {
+          "name": "Trump",
+          "votes": 35
+        },
+        {
+          "name": "Cruz",
+          "votes": 14
+        }
+      ],
+      "totalVotes": 84,
+      "tied": [
+        0,
+        1
+      ]
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3503
+        },
+        {
+          "name": "Sanders",
+          "votes": 2439
+        }
+      ],
+      "totalVotes": 5942
+    }
+  },
+  "East_Williamsburg": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 148
+        },
+        {
+          "name": "Kasich",
+          "votes": 60
+        },
+        {
+          "name": "Cruz",
+          "votes": 36
+        }
+      ],
+      "totalVotes": 244
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 3276
+        },
+        {
+          "name": "Clinton",
+          "votes": 3076
+        }
+      ],
+      "totalVotes": 6352
+    }
+  },
+  "Clinton_Hill": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 34
+        },
+        {
+          "name": "Trump",
+          "votes": 24
+        },
+        {
+          "name": "Cruz",
+          "votes": 13
+        }
+      ],
+      "totalVotes": 71
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 4184
+        },
+        {
+          "name": "Sanders",
+          "votes": 3489
+        }
+      ],
+      "totalVotes": 7673
+    }
+  },
+  "Carroll_Gardens-Columbia_Street-Red_Hook": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 135
+        },
+        {
+          "name": "Kasich",
+          "votes": 105
+        },
+        {
+          "name": "Cruz",
+          "votes": 45
+        }
+      ],
+      "totalVotes": 285
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 4960
+        },
+        {
+          "name": "Sanders",
+          "votes": 3295
+        }
+      ],
+      "totalVotes": 8255
+    }
+  },
+  "Sunset_Park_West": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 166
+        },
+        {
+          "name": "Cruz",
+          "votes": 60
+        },
+        {
+          "name": "Kasich",
+          "votes": 45
+        }
+      ],
+      "totalVotes": 271
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2569
+        },
+        {
+          "name": "Sanders",
+          "votes": 2366
+        }
+      ],
+      "totalVotes": 4935
+    }
+  },
+  "DUMBO-Vinegar_Hill-Downtown_Brooklyn-Boerum_Hill": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 135
+        },
+        {
+          "name": "Trump",
+          "votes": 82
+        },
+        {
+          "name": "Cruz",
+          "votes": 33
+        }
+      ],
+      "totalVotes": 250
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5161
+        },
+        {
+          "name": "Sanders",
+          "votes": 3072
+        }
+      ],
+      "totalVotes": 8233
+    }
+  },
+  "Brooklyn_Heights-Cobble_Hill": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 196
+        },
+        {
+          "name": "Trump",
+          "votes": 130
+        },
+        {
+          "name": "Cruz",
+          "votes": 41
+        }
+      ],
+      "totalVotes": 367
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3998
+        },
+        {
+          "name": "Sanders",
+          "votes": 1747
+        }
+      ],
+      "totalVotes": 5745
+    }
+  },
+  "Prospect_Heights": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 40
+        },
+        {
+          "name": "Kasich",
+          "votes": 39
+        },
+        {
+          "name": "Cruz",
+          "votes": 19
+        }
+      ],
+      "totalVotes": 98
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3452
+        },
+        {
+          "name": "Sanders",
+          "votes": 2460
+        }
+      ],
+      "totalVotes": 5912
+    }
+  },
+  "Bushwick_South": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 54
+        },
+        {
+          "name": "Cruz",
+          "votes": 33
+        },
+        {
+          "name": "Kasich",
+          "votes": 26
+        }
+      ],
+      "totalVotes": 113
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 4686
+        },
+        {
+          "name": "Sanders",
+          "votes": 4085
+        }
+      ],
+      "totalVotes": 8771
+    }
+  },
+  "Bushwick_North": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 64
+        },
+        {
+          "name": "Cruz",
+          "votes": 30
+        },
+        {
+          "name": "Kasich",
+          "votes": 28
+        }
+      ],
+      "totalVotes": 122
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 3415
+        },
+        {
+          "name": "Clinton",
+          "votes": 2938
+        }
+      ],
+      "totalVotes": 6353
+    }
+  },
+  "East_New_York": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 56
+        },
+        {
+          "name": "Kasich",
+          "votes": 22
+        },
+        {
+          "name": "Cruz",
+          "votes": 14
+        }
+      ],
+      "totalVotes": 92
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 7804
+        },
+        {
+          "name": "Sanders",
+          "votes": 2898
+        }
+      ],
+      "totalVotes": 10702
+    }
+  },
+  "Cypress_Hills-City_Line": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 67
+        },
+        {
+          "name": "Cruz",
+          "votes": 43
+        },
+        {
+          "name": "Kasich",
+          "votes": 11
+        }
+      ],
+      "totalVotes": 121
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2449
+        },
+        {
+          "name": "Sanders",
+          "votes": 1180
+        }
+      ],
+      "totalVotes": 3629
+    }
+  },
+  "Stuyvesant_Heights": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Cruz",
+          "votes": 22
+        },
+        {
+          "name": "Trump",
+          "votes": 22
+        },
+        {
+          "name": "Kasich",
+          "votes": 21
+        }
+      ],
+      "totalVotes": 65,
+      "tied": [
+        0,
+        1
+      ]
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5460
+        },
+        {
+          "name": "Sanders",
+          "votes": 3766
+        }
+      ],
+      "totalVotes": 9226
+    }
+  },
+  "Ocean_Hill": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 14
+        },
+        {
+          "name": "Cruz",
+          "votes": 11
+        },
+        {
+          "name": "Kasich",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 30
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2467
+        },
+        {
+          "name": "Sanders",
+          "votes": 1216
+        }
+      ],
+      "totalVotes": 3683
+    }
+  },
+  "East_New_York_(Pennsylvania_Ave)": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 13
+        },
+        {
+          "name": "Cruz",
+          "votes": 5
+        },
+        {
+          "name": "Kasich",
+          "votes": 2
+        }
+      ],
+      "totalVotes": 20
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2404
+        },
+        {
+          "name": "Sanders",
+          "votes": 889
+        }
+      ],
+      "totalVotes": 3293
+    }
+  },
+  "Brownsville": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 24
+        },
+        {
+          "name": "Kasich",
+          "votes": 10
+        },
+        {
+          "name": "Cruz",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 39
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 4842
+        },
+        {
+          "name": "Sanders",
+          "votes": 1723
+        }
+      ],
+      "totalVotes": 6565
+    }
+  },
+  "Rugby-Remsen_Village": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 22
+        },
+        {
+          "name": "Cruz",
+          "votes": 13
+        },
+        {
+          "name": "Kasich",
+          "votes": 11
+        }
+      ],
+      "totalVotes": 46
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5580
+        },
+        {
+          "name": "Sanders",
+          "votes": 1455
+        }
+      ],
+      "totalVotes": 7035
+    }
+  },
+  "Canarsie": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 96
+        },
+        {
+          "name": "Kasich",
+          "votes": 45
+        },
+        {
+          "name": "Cruz",
+          "votes": 34
+        }
+      ],
+      "totalVotes": 175
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 8494
+        },
+        {
+          "name": "Sanders",
+          "votes": 2977
+        }
+      ],
+      "totalVotes": 11471
+    }
+  },
+  "Starrett_City": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 57
+        },
+        {
+          "name": "Cruz",
+          "votes": 8
+        },
+        {
+          "name": "Kasich",
+          "votes": 4
+        }
+      ],
+      "totalVotes": 69
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1338
+        },
+        {
+          "name": "Sanders",
+          "votes": 551
+        }
+      ],
+      "totalVotes": 1889
+    }
+  },
+  "West_New_Brighton-New_Brighton-St._George": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 344
+        },
+        {
+          "name": "Cruz",
+          "votes": 93
+        },
+        {
+          "name": "Kasich",
+          "votes": 90
+        }
+      ],
+      "totalVotes": 527
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2222
+        },
+        {
+          "name": "Sanders",
+          "votes": 1690
+        }
+      ],
+      "totalVotes": 3912
+    }
+  },
+  "New_Brighton-Silver_Lake": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 617
+        },
+        {
+          "name": "Kasich",
+          "votes": 149
+        },
+        {
+          "name": "Cruz",
+          "votes": 97
+        }
+      ],
+      "totalVotes": 863
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 912
+        },
+        {
+          "name": "Sanders",
+          "votes": 773
+        }
+      ],
+      "totalVotes": 1685
+    }
+  },
+  "Port_Richmond": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 558
+        },
+        {
+          "name": "Cruz",
+          "votes": 66
+        },
+        {
+          "name": "Kasich",
+          "votes": 65
+        }
+      ],
+      "totalVotes": 689
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 815
+        },
+        {
+          "name": "Sanders",
+          "votes": 592
+        }
+      ],
+      "totalVotes": 1407
+    }
+  },
+  "Mariner's_Harbor-Arlington-Port_Ivory-Graniteville": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 225
+        },
+        {
+          "name": "Cruz",
+          "votes": 50
+        },
+        {
+          "name": "Kasich",
+          "votes": 37
+        }
+      ],
+      "totalVotes": 312
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1439
+        },
+        {
+          "name": "Sanders",
+          "votes": 843
+        }
+      ],
+      "totalVotes": 2282
+    }
+  },
+  "Grymes_Hill-Clifton-Fox_Hills": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 287
+        },
+        {
+          "name": "Cruz",
+          "votes": 65
+        },
+        {
+          "name": "Kasich",
+          "votes": 53
+        }
+      ],
+      "totalVotes": 405
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1363
+        },
+        {
+          "name": "Sanders",
+          "votes": 788
+        }
+      ],
+      "totalVotes": 2151
+    }
+  },
+  "Westerleigh": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1336
+        },
+        {
+          "name": "Kasich",
+          "votes": 218
+        },
+        {
+          "name": "Cruz",
+          "votes": 158
+        }
+      ],
+      "totalVotes": 1712
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 935
+        },
+        {
+          "name": "Clinton",
+          "votes": 848
+        }
+      ],
+      "totalVotes": 1783
+    }
+  },
+  "Stapleton-Rosebank": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 438
+        },
+        {
+          "name": "Kasich",
+          "votes": 63
+        },
+        {
+          "name": "Cruz",
+          "votes": 44
+        }
+      ],
+      "totalVotes": 545
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1198
+        },
+        {
+          "name": "Sanders",
+          "votes": 954
+        }
+      ],
+      "totalVotes": 2152
+    }
+  },
+  "Charleston-Richmond_Valley-Tottenville": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1497
+        },
+        {
+          "name": "Kasich",
+          "votes": 136
+        },
+        {
+          "name": "Cruz",
+          "votes": 102
+        }
+      ],
+      "totalVotes": 1735
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 451
+        },
+        {
+          "name": "Clinton",
+          "votes": 355
+        }
+      ],
+      "totalVotes": 806
+    }
+  },
+  "Annadale-Huguenot-Prince's_Bay-Eltingville": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 2688
+        },
+        {
+          "name": "Kasich",
+          "votes": 253
+        },
+        {
+          "name": "Cruz",
+          "votes": 163
+        }
+      ],
+      "totalVotes": 3104
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 842
+        },
+        {
+          "name": "Clinton",
+          "votes": 613
+        }
+      ],
+      "totalVotes": 1455
+    }
+  },
+  "Rossville-Woodrow": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1396
+        },
+        {
+          "name": "Kasich",
+          "votes": 132
+        },
+        {
+          "name": "Cruz",
+          "votes": 93
+        }
+      ],
+      "totalVotes": 1621
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 459
+        },
+        {
+          "name": "Clinton",
+          "votes": 438
+        }
+      ],
+      "totalVotes": 897
+    }
+  },
+  "Arden_Heights": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1127
+        },
+        {
+          "name": "Kasich",
+          "votes": 111
+        },
+        {
+          "name": "Cruz",
+          "votes": 88
+        }
+      ],
+      "totalVotes": 1326
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 570
+        },
+        {
+          "name": "Sanders",
+          "votes": 557
+        }
+      ],
+      "totalVotes": 1127
+    }
+  },
+  "Great_Kills": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 2465
+        },
+        {
+          "name": "Kasich",
+          "votes": 284
+        },
+        {
+          "name": "Cruz",
+          "votes": 186
+        }
+      ],
+      "totalVotes": 2935
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 996
+        },
+        {
+          "name": "Clinton",
+          "votes": 859
+        }
+      ],
+      "totalVotes": 1855
+    }
+  },
+  "Todt_Hill-Emerson_Hill-Heartland_Village-Lighthouse_Hill": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1508
+        },
+        {
+          "name": "Kasich",
+          "votes": 182
+        },
+        {
+          "name": "Cruz",
+          "votes": 131
+        }
+      ],
+      "totalVotes": 1821
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1038
+        },
+        {
+          "name": "Sanders",
+          "votes": 894
+        }
+      ],
+      "totalVotes": 1932
+    }
+  },
+  "New_Dorp-Midland_Beach": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1196
+        },
+        {
+          "name": "Kasich",
+          "votes": 165
+        },
+        {
+          "name": "Cruz",
+          "votes": 128
+        }
+      ],
+      "totalVotes": 1489
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 669
+        },
+        {
+          "name": "Clinton",
+          "votes": 504
+        }
+      ],
+      "totalVotes": 1173
+    }
+  },
+  "Oakwood-Oakwood_Beach": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1509
+        },
+        {
+          "name": "Kasich",
+          "votes": 164
+        },
+        {
+          "name": "Cruz",
+          "votes": 128
+        }
+      ],
+      "totalVotes": 1801
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 599
+        },
+        {
+          "name": "Clinton",
+          "votes": 492
+        }
+      ],
+      "totalVotes": 1091
+    }
+  },
+  "New_Springville-Bloomfield-Travis": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1489
+        },
+        {
+          "name": "Cruz",
+          "votes": 197
+        },
+        {
+          "name": "Kasich",
+          "votes": 170
+        }
+      ],
+      "totalVotes": 1856
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1385
+        },
+        {
+          "name": "Sanders",
+          "votes": 1229
+        }
+      ],
+      "totalVotes": 2614
+    }
+  },
+  "Old_Town-Dongan_Hills-South_Beach": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1079
+        },
+        {
+          "name": "Kasich",
+          "votes": 144
+        },
+        {
+          "name": "Cruz",
+          "votes": 94
+        }
+      ],
+      "totalVotes": 1317
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Sanders",
+          "votes": 641
+        },
+        {
+          "name": "Clinton",
+          "votes": 609
+        }
+      ],
+      "totalVotes": 1250
+    }
+  },
+  "Grasmere-Arrochar-Ft._Wadsworth": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 504
+        },
+        {
+          "name": "Kasich",
+          "votes": 86
+        },
+        {
+          "name": "Cruz",
+          "votes": 40
+        }
+      ],
+      "totalVotes": 630
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 467
+        },
+        {
+          "name": "Sanders",
+          "votes": 428
+        }
+      ],
+      "totalVotes": 895
+    }
+  },
+  "Battery_Park_City-Lower_Manhattan": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 499
+        },
+        {
+          "name": "Trump",
+          "votes": 485
+        },
+        {
+          "name": "Cruz",
+          "votes": 149
+        }
+      ],
+      "totalVotes": 1133
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3145
+        },
+        {
+          "name": "Sanders",
+          "votes": 1789
+        }
+      ],
+      "totalVotes": 4934
+    }
+  },
+  "SoHo-TriBeCa-Civic_Center-Little_Italy": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 369
+        },
+        {
+          "name": "Trump",
+          "votes": 231
+        },
+        {
+          "name": "Cruz",
+          "votes": 94
+        }
+      ],
+      "totalVotes": 694
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 4077
+        },
+        {
+          "name": "Sanders",
+          "votes": 2128
+        }
+      ],
+      "totalVotes": 6205
+    }
+  },
+  "Chinatown": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 205
+        },
+        {
+          "name": "Kasich",
+          "votes": 78
+        },
+        {
+          "name": "Cruz",
+          "votes": 50
+        }
+      ],
+      "totalVotes": 333
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2579
+        },
+        {
+          "name": "Sanders",
+          "votes": 1751
+        }
+      ],
+      "totalVotes": 4330
+    }
+  },
+  "Lower_East_Side": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 251
+        },
+        {
+          "name": "Kasich",
+          "votes": 128
+        },
+        {
+          "name": "Cruz",
+          "votes": 95
+        }
+      ],
+      "totalVotes": 474
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 7187
+        },
+        {
+          "name": "Sanders",
+          "votes": 4907
+        }
+      ],
+      "totalVotes": 12094
+    }
+  },
+  "East_Village": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 197
+        },
+        {
+          "name": "Trump",
+          "votes": 194
+        },
+        {
+          "name": "Cruz",
+          "votes": 55
+        }
+      ],
+      "totalVotes": 446
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3770
+        },
+        {
+          "name": "Sanders",
+          "votes": 3651
+        }
+      ],
+      "totalVotes": 7421
+    }
+  },
+  "West_Village": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 588
+        },
+        {
+          "name": "Trump",
+          "votes": 392
+        },
+        {
+          "name": "Cruz",
+          "votes": 128
+        }
+      ],
+      "totalVotes": 1108
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 9794
+        },
+        {
+          "name": "Sanders",
+          "votes": 4983
+        }
+      ],
+      "totalVotes": 14777
+    }
+  },
+  "Hudson_Yards-Chelsea-Flatiron-Union_Square": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 577
+        },
+        {
+          "name": "Trump",
+          "votes": 425
+        },
+        {
+          "name": "Cruz",
+          "votes": 137
+        }
+      ],
+      "totalVotes": 1139
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 9647
+        },
+        {
+          "name": "Sanders",
+          "votes": 4539
+        }
+      ],
+      "totalVotes": 14186
+    }
+  },
+  "Clinton": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 287
+        },
+        {
+          "name": "Kasich",
+          "votes": 247
+        },
+        {
+          "name": "Cruz",
+          "votes": 88
+        }
+      ],
+      "totalVotes": 622
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5413
+        },
+        {
+          "name": "Sanders",
+          "votes": 2612
+        }
+      ],
+      "totalVotes": 8025
+    }
+  },
+  "Midtown-Midtown_South": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 277
+        },
+        {
+          "name": "Kasich",
+          "votes": 239
+        },
+        {
+          "name": "Cruz",
+          "votes": 72
+        }
+      ],
+      "totalVotes": 588
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1991
+        },
+        {
+          "name": "Sanders",
+          "votes": 924
+        }
+      ],
+      "totalVotes": 2915
+    }
+  },
+  "Lincoln_Square": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 801
+        },
+        {
+          "name": "Trump",
+          "votes": 714
+        },
+        {
+          "name": "Cruz",
+          "votes": 198
+        }
+      ],
+      "totalVotes": 1713
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 9377
+        },
+        {
+          "name": "Sanders",
+          "votes": 3121
+        }
+      ],
+      "totalVotes": 12498
+    }
+  },
+  "Upper_West_Side": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 1138
+        },
+        {
+          "name": "Trump",
+          "votes": 797
+        },
+        {
+          "name": "Cruz",
+          "votes": 356
+        }
+      ],
+      "totalVotes": 2291
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 23622
+        },
+        {
+          "name": "Sanders",
+          "votes": 9807
+        }
+      ],
+      "totalVotes": 33429
+    }
+  },
+  "Yorkville": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 1134
+        },
+        {
+          "name": "Trump",
+          "votes": 1051
+        },
+        {
+          "name": "Cruz",
+          "votes": 334
+        }
+      ],
+      "totalVotes": 2519
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 9465
+        },
+        {
+          "name": "Sanders",
+          "votes": 3973
+        }
+      ],
+      "totalVotes": 13438
+    }
+  },
+  "Upper_East_Side-Carnegie_Hill": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 1591
+        },
+        {
+          "name": "Trump",
+          "votes": 1057
+        },
+        {
+          "name": "Cruz",
+          "votes": 271
+        }
+      ],
+      "totalVotes": 2919
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 7594
+        },
+        {
+          "name": "Sanders",
+          "votes": 1955
+        }
+      ],
+      "totalVotes": 9549
+    }
+  },
+  "East_Harlem_South": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 182
+        },
+        {
+          "name": "Kasich",
+          "votes": 156
+        },
+        {
+          "name": "Cruz",
+          "votes": 60
+        }
+      ],
+      "totalVotes": 398
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5380
+        },
+        {
+          "name": "Sanders",
+          "votes": 2984
+        }
+      ],
+      "totalVotes": 8364
+    }
+  },
+  "East_Harlem_North": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 75
+        },
+        {
+          "name": "Kasich",
+          "votes": 41
+        },
+        {
+          "name": "Cruz",
+          "votes": 39
+        }
+      ],
+      "totalVotes": 155
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5200
+        },
+        {
+          "name": "Sanders",
+          "votes": 2992
+        }
+      ],
+      "totalVotes": 8192
+    }
+  },
+  "Central_Harlem_South": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 80
+        },
+        {
+          "name": "Trump",
+          "votes": 72
+        },
+        {
+          "name": "Cruz",
+          "votes": 29
+        }
+      ],
+      "totalVotes": 181
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5147
+        },
+        {
+          "name": "Sanders",
+          "votes": 3287
+        }
+      ],
+      "totalVotes": 8434
+    }
+  },
+  "Central_Harlem_North-Polo_Grounds": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 83
+        },
+        {
+          "name": "Kasich",
+          "votes": 65
+        },
+        {
+          "name": "Cruz",
+          "votes": 27
+        }
+      ],
+      "totalVotes": 175
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 8919
+        },
+        {
+          "name": "Sanders",
+          "votes": 5170
+        }
+      ],
+      "totalVotes": 14089
+    }
+  },
+  "Mott_Haven-Port_Morris": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 48
+        },
+        {
+          "name": "Cruz",
+          "votes": 20
+        },
+        {
+          "name": "Kasich",
+          "votes": 9
+        }
+      ],
+      "totalVotes": 77
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3779
+        },
+        {
+          "name": "Sanders",
+          "votes": 1733
+        }
+      ],
+      "totalVotes": 5512
+    }
+  },
+  "Morningside_Heights": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 150
+        },
+        {
+          "name": "Trump",
+          "votes": 108
+        },
+        {
+          "name": "Cruz",
+          "votes": 50
+        }
+      ],
+      "totalVotes": 308
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5730
+        },
+        {
+          "name": "Sanders",
+          "votes": 3547
+        }
+      ],
+      "totalVotes": 9277
+    }
+  },
+  "Hamilton_Heights": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 55
+        },
+        {
+          "name": "Kasich",
+          "votes": 48
+        },
+        {
+          "name": "Cruz",
+          "votes": 24
+        }
+      ],
+      "totalVotes": 127
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 4526
+        },
+        {
+          "name": "Sanders",
+          "votes": 3078
+        }
+      ],
+      "totalVotes": 7604
+    }
+  },
+  "Manhattanville": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 22
+        },
+        {
+          "name": "Kasich",
+          "votes": 17
+        },
+        {
+          "name": "Cruz",
+          "votes": 6
+        }
+      ],
+      "totalVotes": 45
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1999
+        },
+        {
+          "name": "Sanders",
+          "votes": 1252
+        }
+      ],
+      "totalVotes": 3251
+    }
+  },
+  "Washington_Heights_North": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 204
+        },
+        {
+          "name": "Kasich",
+          "votes": 134
+        },
+        {
+          "name": "Cruz",
+          "votes": 132
+        }
+      ],
+      "totalVotes": 470
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 7411
+        },
+        {
+          "name": "Sanders",
+          "votes": 4445
+        }
+      ],
+      "totalVotes": 11856
+    }
+  },
+  "Washington_Heights_South": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 145
+        },
+        {
+          "name": "Kasich",
+          "votes": 80
+        },
+        {
+          "name": "Cruz",
+          "votes": 65
+        }
+      ],
+      "totalVotes": 290
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 8137
+        },
+        {
+          "name": "Sanders",
+          "votes": 4652
+        }
+      ],
+      "totalVotes": 12789
+    }
+  },
+  "Marble_Hill-Inwood": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 96
+        },
+        {
+          "name": "Kasich",
+          "votes": 41
+        },
+        {
+          "name": "Cruz",
+          "votes": 31
+        }
+      ],
+      "totalVotes": 168
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 4660
+        },
+        {
+          "name": "Sanders",
+          "votes": 2797
+        }
+      ],
+      "totalVotes": 7457
+    }
+  },
+  "Murray_Hill-Kips_Bay": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 463
+        },
+        {
+          "name": "Kasich",
+          "votes": 454
+        },
+        {
+          "name": "Cruz",
+          "votes": 120
+        }
+      ],
+      "totalVotes": 1037
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 4146
+        },
+        {
+          "name": "Sanders",
+          "votes": 1864
+        }
+      ],
+      "totalVotes": 6010
+    }
+  },
+  "Turtle_Bay-East_Midtown": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 874
+        },
+        {
+          "name": "Kasich",
+          "votes": 770
+        },
+        {
+          "name": "Cruz",
+          "votes": 203
+        }
+      ],
+      "totalVotes": 1847
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 4815
+        },
+        {
+          "name": "Sanders",
+          "votes": 1624
+        }
+      ],
+      "totalVotes": 6439
+    }
+  },
+  "Lenox_Hill-Roosevelt_Island": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 1142
+        },
+        {
+          "name": "Kasich",
+          "votes": 1116
+        },
+        {
+          "name": "Cruz",
+          "votes": 282
+        }
+      ],
+      "totalVotes": 2540
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 7880
+        },
+        {
+          "name": "Sanders",
+          "votes": 3145
+        }
+      ],
+      "totalVotes": 11025
+    }
+  },
+  "Stuyvesant_Town-Cooper_Village": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 296
+        },
+        {
+          "name": "Kasich",
+          "votes": 274
+        },
+        {
+          "name": "Cruz",
+          "votes": 93
+        }
+      ],
+      "totalVotes": 663
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2796
+        },
+        {
+          "name": "Sanders",
+          "votes": 1798
+        }
+      ],
+      "totalVotes": 4594
+    }
+  },
+  "Gramercy": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Kasich",
+          "votes": 239
+        },
+        {
+          "name": "Trump",
+          "votes": 209
+        },
+        {
+          "name": "Cruz",
+          "votes": 54
+        }
+      ],
+      "totalVotes": 502
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3087
+        },
+        {
+          "name": "Sanders",
+          "votes": 1452
+        }
+      ],
+      "totalVotes": 4539
+    }
+  },
+  "Highbridge": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 25
+        },
+        {
+          "name": "Cruz",
+          "votes": 8
+        },
+        {
+          "name": "Kasich",
+          "votes": 4
+        }
+      ],
+      "totalVotes": 37
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2899
+        },
+        {
+          "name": "Sanders",
+          "votes": 1057
+        }
+      ],
+      "totalVotes": 3956
+    }
+  },
+  "West_Concourse": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 32
+        },
+        {
+          "name": "Cruz",
+          "votes": 5
+        },
+        {
+          "name": "Kasich",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 42
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2455
+        },
+        {
+          "name": "Sanders",
+          "votes": 989
+        }
+      ],
+      "totalVotes": 3444
+    }
+  },
+  "Mount_Hope": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 51
+        },
+        {
+          "name": "Cruz",
+          "votes": 10
+        },
+        {
+          "name": "Kasich",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 66
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3059
+        },
+        {
+          "name": "Sanders",
+          "votes": 1040
+        }
+      ],
+      "totalVotes": 4099
+    }
+  },
+  "University_Heights-Morris_Heights": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 47
+        },
+        {
+          "name": "Cruz",
+          "votes": 19
+        },
+        {
+          "name": "Kasich",
+          "votes": 12
+        }
+      ],
+      "totalVotes": 78
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3896
+        },
+        {
+          "name": "Sanders",
+          "votes": 1361
+        }
+      ],
+      "totalVotes": 5257
+    }
+  },
+  "East_Concourse-Concourse_Village": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 44
+        },
+        {
+          "name": "Cruz",
+          "votes": 16
+        },
+        {
+          "name": "Kasich",
+          "votes": 13
+        }
+      ],
+      "totalVotes": 73
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5065
+        },
+        {
+          "name": "Sanders",
+          "votes": 1824
+        }
+      ],
+      "totalVotes": 6889
+    }
+  },
+  "Belmont": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 45
+        },
+        {
+          "name": "Cruz",
+          "votes": 13
+        },
+        {
+          "name": "Kasich",
+          "votes": 7
+        }
+      ],
+      "totalVotes": 65
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1113
+        },
+        {
+          "name": "Sanders",
+          "votes": 528
+        }
+      ],
+      "totalVotes": 1641
+    }
+  },
+  "East_Tremont": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 23
+        },
+        {
+          "name": "Cruz",
+          "votes": 7
+        },
+        {
+          "name": "Kasich",
+          "votes": 6
+        }
+      ],
+      "totalVotes": 36
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2816
+        },
+        {
+          "name": "Sanders",
+          "votes": 1085
+        }
+      ],
+      "totalVotes": 3901
+    }
+  },
+  "Claremont-Bathgate": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 14
+        },
+        {
+          "name": "Cruz",
+          "votes": 7
+        },
+        {
+          "name": "Kasich",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 26
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2160
+        },
+        {
+          "name": "Sanders",
+          "votes": 817
+        }
+      ],
+      "totalVotes": 2977
+    }
+  },
+  "Bedford_Park-Fordham_North": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 68
+        },
+        {
+          "name": "Cruz",
+          "votes": 21
+        },
+        {
+          "name": "Kasich",
+          "votes": 18
+        }
+      ],
+      "totalVotes": 107
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2349
+        },
+        {
+          "name": "Sanders",
+          "votes": 1139
+        }
+      ],
+      "totalVotes": 3488
+    }
+  },
+  "Van_Cortlandt_Village": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 134
+        },
+        {
+          "name": "Cruz",
+          "votes": 39
+        },
+        {
+          "name": "Kasich",
+          "votes": 24
+        }
+      ],
+      "totalVotes": 197
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3591
+        },
+        {
+          "name": "Sanders",
+          "votes": 1996
+        }
+      ],
+      "totalVotes": 5587
+    }
+  },
+  "Bronxdale": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 109
+        },
+        {
+          "name": "Cruz",
+          "votes": 18
+        },
+        {
+          "name": "Kasich",
+          "votes": 14
+        }
+      ],
+      "totalVotes": 141
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1892
+        },
+        {
+          "name": "Sanders",
+          "votes": 867
+        }
+      ],
+      "totalVotes": 2759
+    }
+  },
+  "Kingsbridge_Heights": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 44
+        },
+        {
+          "name": "Cruz",
+          "votes": 28
+        },
+        {
+          "name": "Kasich",
+          "votes": 9
+        }
+      ],
+      "totalVotes": 81
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2214
+        },
+        {
+          "name": "Sanders",
+          "votes": 928
+        }
+      ],
+      "totalVotes": 3142
+    }
+  },
+  "Crotona_Park_East": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 17
+        },
+        {
+          "name": "Cruz",
+          "votes": 13
+        },
+        {
+          "name": "Kasich",
+          "votes": 3
+        }
+      ],
+      "totalVotes": 33
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1492
+        },
+        {
+          "name": "Sanders",
+          "votes": 523
+        }
+      ],
+      "totalVotes": 2015
+    }
+  },
+  "Morrisania-Melrose": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 20
+        },
+        {
+          "name": "Cruz",
+          "votes": 10
+        },
+        {
+          "name": "Kasich",
+          "votes": 8
+        }
+      ],
+      "totalVotes": 38
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2442
+        },
+        {
+          "name": "Sanders",
+          "votes": 1065
+        }
+      ],
+      "totalVotes": 3507
+    }
+  },
+  "Longwood": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 21
+        },
+        {
+          "name": "Cruz",
+          "votes": 6
+        },
+        {
+          "name": "Kasich",
+          "votes": 2
+        }
+      ],
+      "totalVotes": 29
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1896
+        },
+        {
+          "name": "Sanders",
+          "votes": 802
+        }
+      ],
+      "totalVotes": 2698
+    }
+  },
+  "Melrose_South-Mott_Haven_North": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 27
+        },
+        {
+          "name": "Cruz",
+          "votes": 17
+        },
+        {
+          "name": "Kasich",
+          "votes": 10
+        }
+      ],
+      "totalVotes": 54
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2939
+        },
+        {
+          "name": "Sanders",
+          "votes": 1191
+        }
+      ],
+      "totalVotes": 4130
+    }
+  },
+  "Pelham_Parkway": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 283
+        },
+        {
+          "name": "Kasich",
+          "votes": 52
+        },
+        {
+          "name": "Cruz",
+          "votes": 46
+        }
+      ],
+      "totalVotes": 381
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1215
+        },
+        {
+          "name": "Sanders",
+          "votes": 919
+        }
+      ],
+      "totalVotes": 2134
+    }
+  },
+  "Van_Nest-Morris_Park-Westchester_Square": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 242
+        },
+        {
+          "name": "Kasich",
+          "votes": 40
+        },
+        {
+          "name": "Cruz",
+          "votes": 34
+        }
+      ],
+      "totalVotes": 316
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 935
+        },
+        {
+          "name": "Sanders",
+          "votes": 723
+        }
+      ],
+      "totalVotes": 1658
+    }
+  },
+  "Allerton-Pelham_Gardens": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 185
+        },
+        {
+          "name": "Kasich",
+          "votes": 37
+        },
+        {
+          "name": "Cruz",
+          "votes": 30
+        }
+      ],
+      "totalVotes": 252
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1738
+        },
+        {
+          "name": "Sanders",
+          "votes": 799
+        }
+      ],
+      "totalVotes": 2537
+    }
+  },
+  "Williamsbridge-Olinville": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 35
+        },
+        {
+          "name": "Cruz",
+          "votes": 22
+        },
+        {
+          "name": "Kasich",
+          "votes": 18
+        }
+      ],
+      "totalVotes": 75
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5139
+        },
+        {
+          "name": "Sanders",
+          "votes": 1519
+        }
+      ],
+      "totalVotes": 6658
+    }
+  },
+  "Norwood": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 72
+        },
+        {
+          "name": "Cruz",
+          "votes": 21
+        },
+        {
+          "name": "Kasich",
+          "votes": 20
+        }
+      ],
+      "totalVotes": 113
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2078
+        },
+        {
+          "name": "Sanders",
+          "votes": 1117
+        }
+      ],
+      "totalVotes": 3195
+    }
+  },
+  "Spuyten_Duyvil-Kingsbridge": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 248
+        },
+        {
+          "name": "Kasich",
+          "votes": 118
+        },
+        {
+          "name": "Cruz",
+          "votes": 97
+        }
+      ],
+      "totalVotes": 463
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 2963
+        },
+        {
+          "name": "Sanders",
+          "votes": 1787
+        }
+      ],
+      "totalVotes": 4750
+    }
+  },
+  "Woodlawn-Wakefield": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 198
+        },
+        {
+          "name": "Kasich",
+          "votes": 65
+        },
+        {
+          "name": "Cruz",
+          "votes": 55
+        }
+      ],
+      "totalVotes": 318
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3097
+        },
+        {
+          "name": "Sanders",
+          "votes": 1176
+        }
+      ],
+      "totalVotes": 4273
+    }
+  },
+  "North_Riverdale-Fieldston-Riverdale": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 339
+        },
+        {
+          "name": "Kasich",
+          "votes": 149
+        },
+        {
+          "name": "Cruz",
+          "votes": 121
+        }
+      ],
+      "totalVotes": 609
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3157
+        },
+        {
+          "name": "Sanders",
+          "votes": 1800
+        }
+      ],
+      "totalVotes": 4957
+    }
+  },
+  "Schuylerville-Throgs_Neck-Edgewater_Park": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 757
+        },
+        {
+          "name": "Kasich",
+          "votes": 117
+        },
+        {
+          "name": "Cruz",
+          "votes": 98
+        }
+      ],
+      "totalVotes": 972
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1923
+        },
+        {
+          "name": "Sanders",
+          "votes": 1548
+        }
+      ],
+      "totalVotes": 3471
+    }
+  },
+  "Westchester-Unionport": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 58
+        },
+        {
+          "name": "Cruz",
+          "votes": 22
+        },
+        {
+          "name": "Kasich",
+          "votes": 15
+        }
+      ],
+      "totalVotes": 95
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1380
+        },
+        {
+          "name": "Sanders",
+          "votes": 684
+        }
+      ],
+      "totalVotes": 2064
+    }
+  },
+  "Pelham_Bay-Country_Club-City_Island": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 659
+        },
+        {
+          "name": "Kasich",
+          "votes": 146
+        },
+        {
+          "name": "Cruz",
+          "votes": 73
+        }
+      ],
+      "totalVotes": 878
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1187
+        },
+        {
+          "name": "Sanders",
+          "votes": 1044
+        }
+      ],
+      "totalVotes": 2231
+    }
+  },
+  "Eastchester-Edenwald-Baychester": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 26
+        },
+        {
+          "name": "Cruz",
+          "votes": 11
+        },
+        {
+          "name": "Kasich",
+          "votes": 8
+        }
+      ],
+      "totalVotes": 45
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 3024
+        },
+        {
+          "name": "Sanders",
+          "votes": 883
+        }
+      ],
+      "totalVotes": 3907
+    }
+  },
+  "Co-op_City": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 115
+        },
+        {
+          "name": "Kasich",
+          "votes": 39
+        },
+        {
+          "name": "Cruz",
+          "votes": 38
+        }
+      ],
+      "totalVotes": 192
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 7354
+        },
+        {
+          "name": "Sanders",
+          "votes": 2392
+        }
+      ],
+      "totalVotes": 9746
+    }
+  },
+  "Hunts_Point": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 20
+        },
+        {
+          "name": "Cruz",
+          "votes": 12
+        },
+        {
+          "name": "Kasich",
+          "votes": 1
+        }
+      ],
+      "totalVotes": 33
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1722
+        },
+        {
+          "name": "Sanders",
+          "votes": 632
+        }
+      ],
+      "totalVotes": 2354
+    }
+  },
+  "Soundview-Castle_Hill-Clason_Point-Harding_Park": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 100
+        },
+        {
+          "name": "Cruz",
+          "votes": 35
+        },
+        {
+          "name": "Kasich",
+          "votes": 21
+        }
+      ],
+      "totalVotes": 156
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 5383
+        },
+        {
+          "name": "Sanders",
+          "votes": 2114
+        }
+      ],
+      "totalVotes": 7497
+    }
+  },
+  "Soundview-Bruckner": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 32
+        },
+        {
+          "name": "Cruz",
+          "votes": 16
+        },
+        {
+          "name": "Kasich",
+          "votes": 11
+        }
+      ],
+      "totalVotes": 59
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1999
+        },
+        {
+          "name": "Sanders",
+          "votes": 822
+        }
+      ],
+      "totalVotes": 2821
+    }
+  },
+  "West_Farms-Bronx_River": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 39
+        },
+        {
+          "name": "Cruz",
+          "votes": 12
+        },
+        {
+          "name": "Kasich",
+          "votes": 8
+        }
+      ],
+      "totalVotes": 59
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1981
+        },
+        {
+          "name": "Sanders",
+          "votes": 773
+        }
+      ],
+      "totalVotes": 2754
+    }
+  },
+  "Fordham_South": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 23
+        },
+        {
+          "name": "Cruz",
+          "votes": 7
+        },
+        {
+          "name": "Kasich",
+          "votes": 1
+        }
+      ],
+      "totalVotes": 31
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1522
+        },
+        {
+          "name": "Sanders",
+          "votes": 553
+        }
+      ],
+      "totalVotes": 2075
+    }
+  },
+  "Parkchester": {
+    "R": {
+      "voteCounts": [
+        {
+          "name": "Trump",
+          "votes": 20
+        },
+        {
+          "name": "Cruz",
+          "votes": 9
+        },
+        {
+          "name": "Kasich",
+          "votes": 8
+        }
+      ],
+      "totalVotes": 37
+    },
+    "D": {
+      "voteCounts": [
+        {
+          "name": "Clinton",
+          "votes": 1706
+        },
+        {
+          "name": "Sanders",
+          "votes": 792
+        }
+      ],
+      "totalVotes": 2498
+    }
+  }
+}

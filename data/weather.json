@@ -1,0 +1,12 @@
+[
+  { date: "2018-03-16", day: "Friday", record: [13, 82], normal: [35, 50], actual: [30, 40] },
+  { date: "2018-03-17", day: "Saturday", record: [9, 75], normal: [35, 50], actual: [27, 48] },
+  { date: "2018-03-18", day: "Sunday", record: [7, 77], normal: [36, 50], actual: [28, 43] },
+  { date: "2018-03-19", day: "Monday", record: [8, 76], normal: [36, 51], actual: [33, 47] },
+  { date: "2018-03-20", day: "Tuesday", record: [11, 83], normal: [36, 51], actual: [30, 38] },
+  { date: "2018-03-21", day: "Wednesday", record: [10, 84], normal: [37, 51], forecast: [32, 34] },
+  { date: "2018-03-22", day: "Thursday", record: [12, 78], normal: [37, 52], forecast: [31, 44] },
+  { date: "2018-03-23", day: "Friday", record: [12, 76], normal: [37, 52], forecast: [30, 44] },
+  { date: "2018-03-24", day: "Saturday", record: [12, 76], normal: [37, 52], forecast: [31, 44] },
+  { date: "2018-03-25", day: "Sunday", record: [13, 79], normal: [38, 53], forecast: [30, 43] }
+];
